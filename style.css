@@ -1,0 +1,23 @@
+.container{
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+}
+body{
+    background-color: lightblue;
+}
+.dice{
+    display: inline-block;
+    padding: 250px;
+    
+}
+p{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+    font-weight: bold;
+}
+
+
